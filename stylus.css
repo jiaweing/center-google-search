@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           ?
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+@-moz-document domain("google.com") {
+    @media (min-width: 1529px) {
+        #rcnt {
+            max-width: max-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+}
